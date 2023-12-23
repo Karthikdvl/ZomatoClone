@@ -1,3 +1,3 @@
-##Zomato web landing page clone
+#Zomato web landing page clone
 
 #edited 
